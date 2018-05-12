@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40484
     wikipedia: http://en.wikipedia.org/wiki/%C3%89variste_Galois
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40213#Oeuvres-math-matiques-d--variste-Galois
 gutenberg_bookshelf:
 - Mathematics
 - FR Sciences et Techniques
