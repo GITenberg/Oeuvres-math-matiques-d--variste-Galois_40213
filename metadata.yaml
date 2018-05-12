@@ -1,0 +1,50 @@
+_repo: Oeuvres-math-matiques-d--variste-Galois_40213
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Picard, Emile
+    aliases:
+    - Picard, Charles Emile
+    - Picard, Émile
+    - Picard, Ch.-E. (Charles Emile)
+    birthdate: 1856
+    deathdate: 1941
+    gutenberg_agent_id: '40486'
+    url: http://www.gutenberg.org/2009/agents/40486
+    wikipedia: http://en.wikipedia.org/wiki/Charles_%C3%89mile_Picard
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Galois, Évariste
+    alias: Galois, Evariste
+    birthdate: 1811
+    deathdate: 1832
+    gutenberg_agent_id: '40484'
+    url: http://www.gutenberg.org/2009/agents/40484
+    wikipedia: http://en.wikipedia.org/wiki/%C3%89variste_Galois
+description: ''
+gutenberg_bookshelf:
+- Mathematics
+- FR Sciences et Techniques
+gutenberg_issued: '2012-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40213'
+  lccn: 06034399
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mathematics'
+- !lcc 'QA'
+tableOfContents: 'I. Articles publiés par Galois: Demonstration d''un théorème sur
+  les fractions continues périodiques. Notes sur quelques points d''analyse. Analyse
+  d''un mémoire sur la résolution algébrique des equations. Note sur la résolution
+  des équations numériques. Sur la théorie des nombres -- II. Oeuvres posthumes. Lettre
+  à Auguste Chevalier. Mémoire sur les conditions de résolubilité des équations par
+  radicaux. Des équations primitives qui sont solubles par radicaux (fragment).'
+title: Oeuvres mathématiques d'Évariste Galois
+url: http://www.gutenberg.org/ebooks/40213
