@@ -42,6 +42,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Mathematics'
 - !lcc 'QA'
+- GITenberg
 tableOfContents: 'I. Articles publiés par Galois: Demonstration d''un théorème sur
   les fractions continues périodiques. Notes sur quelques points d''analyse. Analyse
   d''un mémoire sur la résolution algébrique des equations. Note sur la résolution
